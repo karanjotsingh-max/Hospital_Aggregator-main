@@ -1,0 +1,15 @@
+/* 
+.body{
+    background-image: url("../images/forgotpassui.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+} */
+
+.pass-img{
+    justify-items: center;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 1.5rem;
+}
+

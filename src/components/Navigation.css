@@ -1,0 +1,9 @@
+.zone {
+
+    transition: all 0.3s linear;
+}
+.bg{
+    background: #813AFE; /* Old browsers */
+    
+    background: linear-gradient(to left, #813AFE 0%,#9c27b0 44%,#813AFE 100%); /* W3C */
+}
